@@ -1,0 +1,17 @@
+.form-group{
+    color:black;
+    font-weight: bold;
+    
+}
+.container-fluid{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    
+    
+}
+.content{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(238, 196, 196);
+}
