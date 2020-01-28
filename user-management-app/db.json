@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Makarand",
+      "lastName": "Bhoir",
+      "email": "bhoir.makarand@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Rashmi",
+      "lastName": "Pawaskar",
+      "email": "rashmi@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Mahendra",
+      "lastName": "Shinde",
+      "email": "mahendra@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Narendra",
+      "lastName": "Gantayal",
+      "email": "narendra.gantayal@gmail.com"
+    }
+  ]
+}
